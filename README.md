@@ -7,4 +7,10 @@ Ejercicio para aprender los primeros pasos entre GIT y Visual Studio Code, curso
 Design inspiration de [Dribbble](https://dribbble.com/shots/3628370-Movie-Seat-Booking)
 
 
-/Titulo 2
+# Titulo 2
+
+1. Uno
+2. Dos
+3. Tres
+
+> Comentarios
