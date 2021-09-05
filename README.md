@@ -5,3 +5,6 @@ Pequeńa aplicación que muestra opciones de películas y asientos en un teatro,
 Ejercicio para aprender los primeros pasos entre GIT y Visual Studio Code, curso con completo [aqui](https://www.udemy.com/instructor/course/2038160/manage/goals/)
 
 Design inspiration de [Dribbble](https://dribbble.com/shots/3628370-Movie-Seat-Booking)
+
+
+/Titulo 2
